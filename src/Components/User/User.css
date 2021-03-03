@@ -1,0 +1,14 @@
+img {
+    width: 150px;
+  }
+  
+  .go-back-btn {
+    margin: 10px 0 50px;
+  }
+
+  .card{
+      display: flex;
+      align-items: center;
+      margin:0%  40%;
+      padding: 10%;
+  }
